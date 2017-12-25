@@ -1,0 +1,6 @@
+{
+  "dataset": "Kaggle2014Det",
+  "datadir": "/mnt/data4/server/datasets/seizure/Kaggle/UPenn_MayoClinic_Seizure_Detection_Challenge/clips",
+  "cachedir": "/mnt/data3/tempdata/Kaggle2014Det",
+  "resultdir": "results"
+}
