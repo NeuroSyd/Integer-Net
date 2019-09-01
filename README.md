@@ -1,7 +1,8 @@
 # Integer-Net
-Run command: <br />
-python main.py --dataset DATASET --mode cv --model MODEL --bits BITS <br />
-<br />
+Run command: 
+```console
+python main.py --dataset DATASET --mode cv --model MODEL --bits BITS
+```
 
 DATASET in [FB, CHBMIT, Kaggle2014Det] <br />
 MODEL in [full, xnor, binary, int] <br />
